@@ -368,7 +368,6 @@ img {
   width: fit-content;
 }
 
-
 .work_img img {
   transition: 1s;
   cursor: pointer;
@@ -526,4 +525,10 @@ img {
   .home_img {
     right: 10%;
   }
+}
+
+.description {
+  height: 150px;
+  padding: 10px;
+  text-align: justify;
 }
